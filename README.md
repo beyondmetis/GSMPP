@@ -29,13 +29,13 @@ Output image:
 
 Total time to denoise this image:
 
-`
+```
 $ time python2 GSM_DNU_method.py 2.bmp 0.038
 
 real    2m10.388s
 user    2m10.377s
 sys     0m0.093s
-`
+```
 
 Kindly report any suggestions or corrections to beyondmetis@gmail.com.
 
