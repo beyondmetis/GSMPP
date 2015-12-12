@@ -1,5 +1,5 @@
 # Gaussian Scale Mixture Perceptual Pattern (GSMPP) denoiser 1.0
-GSM-based IR non-uniformity denoising algorithm for vertical non-uniformity.
+GSM-based IR denoising algorithm for vertical non-uniformity.
 
 ## Requirements (this is what the code was tested with)
 - python 2.7
