@@ -37,7 +37,7 @@ user    2m10.377s
 sys     0m0.093s
 ```
 
-Kindly report any suggestions or corrections to beyondmetis@gmail.com.
+Kindly report any suggestions or corrections as an issue or as a pull request.
 
 ## License
 
