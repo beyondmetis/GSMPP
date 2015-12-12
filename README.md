@@ -1,5 +1,5 @@
-# GSMPP (1.0)
-GSM-based IR non-uniformity denoising algorithm
+# Gaussian Scale Mixture Perceptual Pattern (GSMPP) denoiser 1.0
+GSM-based IR non-uniformity denoising algorithm for vertical non-uniformity.
 
 ## Requirements (this is what the code was tested with)
 - python 2.7
@@ -18,9 +18,9 @@ Input image:
 
 ![Input Image](2.bmp)
 
-'''
+```
 python2 GSM_DNU_method.py 2.bmp 0.038
-'''
+```
 
 Output image:
 
@@ -29,13 +29,13 @@ Output image:
 
 Total time to denoise this image:
 
-'''
+`
 $ time python2 GSM_DNU_method.py 2.bmp 0.038
 
 real    2m10.388s
 user    2m10.377s
 sys     0m0.093s
-'''
+`
 
 Kindly report any suggestions or corrections to beyondmetis@gmail.com.
 
